@@ -1,0 +1,22 @@
+{
+  "name": "js_learn",
+  "version": "1.0.0",
+  "description": "learn js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ming3000/js_learn.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "xuming.js@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ming3000/js_learn/issues"
+  },
+  "homepage": "https://github.com/ming3000/js_learn#readme"
+}
